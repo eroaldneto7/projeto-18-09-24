@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap ');
+
+
+#banner{
+    background-image: url(/imagens/header.png);
+    height:800px;
+    width: auto;
+    background-size: cover;
+}   
+
+#txt_descubra{
+color: white;
+margin-left: 250px;
+width: 700px;
+
+}
+
+#txt_descubra h1{
+font-size: 50px;
+font-weight: 900;
+}
+
+
+#txt_descubra p{
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+#txt_descubra p1{
+    margin-top: px;
+   
+
+}
+
+#retangulo{
+    background-color: white;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+    justify-content: center;
+    height: 50px;
+    font-size: 30px;
+    color: rgb(26, 25, 25);
+   
+}
+
+#amarelo{
+    background-color: yellow;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-top: 20px;
+    height: 80px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+body{
+    margin: 0px;
+}
