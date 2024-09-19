@@ -3,7 +3,7 @@
 
 #banner{
     background-image: url(/imagens/header.png);
-    height:800px;
+    height: 800px;
     width: auto;
     background-size: cover;
 }   
@@ -15,21 +15,15 @@ width: 700px;
 
 }
 
-#txt_descubra h1{
+#txt_descubra #desc{
 font-size: 50px;
-font-weight: 900;
+font-weight: 600;
+
 }
 
 
 #txt_descubra p{
-    font-size: 30px;
-    margin-top: -40px;
-}
-
-#txt_descubra p1{
-    margin-top: px;
-   
-
+    font-size: 20px;
 }
 
 #retangulo{
@@ -57,7 +51,198 @@ font-weight: 900;
     font-size: 30px;
     font-weight: 700;
 }
+#parte1{
+background-color: rgb(37, 36, 36);
+width: auto;
+height:300px;
+display: flex;
+justify-content: center;
+padding-top: 50px;
+padding-bottom: 50px;
+align-items: center;
+}
+#parte1 h1{
+    font-size: 30px;
+    font-weight: 600;
+    color: white; 
+}
 
+#parte1 p{
+    font-size: 20px;
+    color: white;
+}
+#icone1{
+    width: 200px;
+    height: 200px;
+}
+
+#parte2{
+    background-color: rgb(20, 18, 18);
+    width: auto;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 50px;
+    align-items: center;
+}
+#parte2 p{
+    font-size: 25px;
+    font-weight: 40;
+    color: white;
+}
+#txt_parte2{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+#icone2{
+    width: 200px;
+    height: 200px;
+}
+
+.conteudos2{
+    width: 800px;
+}
+
+#parte3{
+    background-color: rgb(37, 36, 36);
+    width: auto;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 50px;
+    align-items: center;
+}
+#parte3 p{
+    font-size: 20px;
+    color: white;
+}
+#txt_parte3{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+#icone3{
+    width: 200px;
+    height: 200px;
+}
+
+.conteudos3{
+    width: 800px;
+}
+
+#parte4{
+    background-color: rgb(20, 18, 18);
+    width: auto;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 50px;
+    align-items: center;
+}
+#parte4 p{
+    font-size: 20px;
+    color: white;
+}
+#txt_parte4{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+#icone4{
+    width: 200px;
+    height: 200px;
+}
+
+.conteudos4{
+    width: 800px;
+}
+
+#parte5{
+    background-color: rgb(37, 36, 36);
+    width: auto;
+    height: 720px;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 50px;
+    align-items: center;
+}
+#parte5 p{
+    font-size: 20px;
+    color: white;
+}
+#txt_parte5{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+#icone5{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px 200px 200px 200px ;
+}
+
+.conteudos5{
+    width: 600px;
+}
+
+#parte6{background-color: rgb(20, 18, 18);
+    width: auto;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 50px;
+    align-items: center;
+}
+
+#txt_parte6{
+    color: white;
+    font-size: 35px;
+    font-weight: 800;
+    width: 600px;
+    height: 600px;
+    
+}
+#amarelo2{
+    background-color: yellow;
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-top: -220px;
+    height: 75px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+
+#garota{
+    width: 350px;
+    height: 700px;
+
+}
 body{
     margin: 0px;
+    font-family: Montserrat;
 }
+
+.conteudos{
+    width: 700px;;
+}
+.txt_amarelo{
+    color: yellow;
+}
+
+#rodape{
+    color: white;
+    background-color: rgb(20, 18, 18);
+    width: auto;
+    display: flex;
+    padding-left: 550px;
